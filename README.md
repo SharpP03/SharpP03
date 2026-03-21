@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">Aspiring Software Engineer | React & TypeScript | Applied Computer Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharp03&label=Profile%20views&color=0e75b6&style=flat" alt="sharp03" /> </p>
+- 🔭 I’m currently working on **NeuroSight - a fusion of retro game and the OpenCV library**
 
-- 🔭 I’m currently working on **AdAstra - Game about space travel**
-
-- 🌱 I’m currently learning **C# & Unity | React & TypeScript**
+- 🌱 I’m currently learning **Python & Pygame | React & TypeScript**
 
 - 💬 Ask me about **Game Development | Frontend**
 
 - 📫 How to reach me **patryk.stoncel.ps@gmail.com**
 
-- ⚡ Fun fact **Passionate about gaming technologies, 
-Love to noodle on the guitar**
+- ⚡ Fun fact **Passionate about gaming technologies and love noodling on the guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
